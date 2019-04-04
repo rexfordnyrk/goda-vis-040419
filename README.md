@@ -1,2 +1,2 @@
-# goda-vis-040419
+# Visualise Goda
 opendata - data upload challenge and hackerton
