@@ -1,2 +1,2 @@
-# Visualise Goda
-opendata - data upload challenge and hackerton
+# Visualize Goda
+Ghana Open Data Portal - data upload challenge and hackerton 04-04-2019
