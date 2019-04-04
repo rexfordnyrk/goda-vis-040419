@@ -1,0 +1,192 @@
+{
+   "Accra": [
+      {
+         "Year": 2011,
+         "Fatal": 257,
+         "Serious": 529,
+         "Slight": 968,
+         "Damage": 1749,
+         "Hosp": 745,
+         "N-Hosp": 1746
+      },
+      {
+         "Year": 2010,
+         "Fatal": 248,
+         "Serious": 578,
+         "Slight": 1223,
+         "Damage": 2103,
+         "Hosp": 751,
+         "N-Hosp": 2030
+      },
+      {
+         "Year": 2005,
+         "Fatal": 154,
+         "Serious": 456,
+         "Slight": 1015,
+         "Damage": 2306,
+         "Hosp": 586,
+         "N-Hosp": 1602
+      },
+      {
+         "Year": 2001,
+         "Fatal": 129,
+         "Serious": 553,
+         "Slight": 1100,
+         "Damage": 2468,
+         "Hosp": 705,
+         "N-Hosp": 1695
+      }
+   ],
+   "Kumasi": [
+      {
+         "Year": 2011,
+         "Fatal": 85,
+         "Serious": 235,
+         "Slight": 188,
+         "Damage": 262,
+         "Hosp": 373,
+         "N-Hosp": 435
+      },
+      {
+         "Year": 2010,
+         "Fatal": 72,
+         "Serious": 206,
+         "Slight": 250,
+         "Damage": 266,
+         "Hosp": 244,
+         "N-Hosp": 492
+      },
+      {
+         "Year": 2005,
+         "Fatal": 77,
+         "Serious": 166,
+         "Slight": 249,
+         "Damage": 294,
+         "Hosp": 211,
+         "N-Hosp": 473
+      },
+      {
+         "Year": 2001,
+         "Fatal": 94,
+         "Serious": 154,
+         "Slight": 279,
+         "Damage": 366,
+         "Hosp": 192,
+         "N-Hosp": 443
+      }
+   ],
+   "Sekondi-Takoradi": [
+      {
+         "Year": 2011,
+         "Fatal": 16,
+         "Serious": 26,
+         "Slight": 36,
+         "Damage": 62,
+         "Hosp": 36,
+         "N-Hosp": 66
+      },
+      {
+         "Year": 2010,
+         "Fatal": 25,
+         "Serious": 41,
+         "Slight": 47,
+         "Damage": 74,
+         "Hosp": 46,
+         "N-Hosp": 111
+      },
+      {
+         "Year": 2005,
+         "Fatal": 19,
+         "Serious": 44,
+         "Slight": 44,
+         "Damage": 68,
+         "Hosp": 48,
+         "N-Hosp": 85
+      },
+      {
+         "Year": 2001,
+         "Fatal": 17,
+         "Serious": 42,
+         "Slight": 51,
+         "Damage": 72,
+         "Hosp": 69,
+         "N-Hosp": 85
+      }
+   ],
+   "Tema": [
+      {
+         "Year": 2011,
+         "Fatal": 36,
+         "Serious": 43,
+         "Slight": 56,
+         "Damage": 152,
+         "Hosp": 69,
+         "N-Hosp": 126
+      },
+      {
+         "Year": 2010,
+         "Fatal": 47,
+         "Serious": 97,
+         "Slight": 134,
+         "Damage": 237,
+         "Hosp": 179,
+         "N-Hosp": 285
+      },
+      {
+         "Year": 2005,
+         "Fatal": 43,
+         "Serious": 97,
+         "Slight": 163,
+         "Damage": 256,
+         "Hosp": 164,
+         "N-Hosp": 315
+      },
+      {
+         "Year": 2001,
+         "Fatal": 19,
+         "Serious": 67,
+         "Slight": 65,
+         "Damage": 170,
+         "Hosp": 80,
+         "N-Hosp": 101
+      }
+   ],
+   "Tamale": [
+      {
+         "Year": 2011,
+         "Fatal": 10,
+         "Serious": 18,
+         "Slight": 15,
+         "Damage": 20,
+         "Hosp": 29,
+         "N-Hosp": 30
+      },
+      {
+         "Year": 2010,
+         "Fatal": 19,
+         "Serious": 25,
+         "Slight": 14,
+         "Damage": 14,
+         "Hosp": 45,
+         "N-Hosp": 39
+      },
+      {
+         "Year": 2005,
+         "Fatal": 26,
+         "Serious": 18,
+         "Slight": 14,
+         "Damage": 21,
+         "Hosp": 26,
+         "N-Hosp": 28
+      },
+      {
+         "Year": 2001,
+         "Fatal": 13,
+         "Serious": 28,
+         "Slight": 20,
+         "Damage": 33,
+         "Hosp": 63,
+         "N-Hosp": 50
+      }
+   ]
+}

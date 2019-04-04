@@ -1,0 +1,342 @@
+{
+   "Ashanti": [
+      {
+         "Year": 2011,
+         "Crashes": 2094,
+         "Fatal": 367,
+         "Casualties": 3614,
+         "Killed": 474,
+         "Injured": 3140
+      },
+      {
+         "Year": 2010,
+         "Crashes": 1944,
+         "Fatal": 362,
+         "Casualties": 3752,
+         "Killed": 454,
+         "Injured": 3298
+      },
+      {
+         "Year": 2005,
+         "Crashes": 1681,
+         "Fatal": 251,
+         "Casualties": 2918,
+         "Killed": 317,
+         "Injured": 2601
+      },
+      {
+         "Year": 2001,
+         "Crashes": 1680,
+         "Fatal": 263,
+         "Casualties": 2389,
+         "Killed": 379,
+         "Injured": 2010
+      }
+   ],
+   "Brong Ahafo": [
+      {
+         "Year": 2011,
+         "Crashes": 726,
+         "Fatal": 219,
+         "Casualties": 1514,
+         "Killed": 297,
+         "Injured": 1217
+      },
+      {
+         "Year": 2010,
+         "Crashes": 543,
+         "Fatal": 142,
+         "Casualties": 1303,
+         "Killed": 169,
+         "Injured": 1134
+      },
+      {
+         "Year": 2005,
+         "Crashes": 652,
+         "Fatal": 131,
+         "Casualties": 1340,
+         "Killed": 192,
+         "Injured": 1148
+      },
+      {
+         "Year": 2001,
+         "Crashes": 494,
+         "Fatal": 87,
+         "Casualties": 952,
+         "Killed": 152,
+         "Injured": 800
+      }
+   ],
+   "Central Region": [
+      {
+         "Year": 2011,
+         "Crashes": 1046,
+         "Fatal": 163,
+         "Casualties": 1550,
+         "Killed": 203,
+         "Injured": 1347
+      },
+      {
+         "Year": 2010,
+         "Crashes": 982,
+         "Fatal": 167,
+         "Casualties": 1595,
+         "Killed": 167,
+         "Injured": 1428
+      },
+      {
+         "Year": 2005,
+         "Crashes": 919,
+         "Fatal": 156,
+         "Casualties": 1603,
+         "Killed": 183,
+         "Injured": 1420
+      },
+      {
+         "Year": 2001,
+         "Crashes": 955,
+         "Fatal": 156,
+         "Casualties": 1681,
+         "Killed": 206,
+         "Injured": 1475
+      }
+   ],
+   "Eastern Region": [
+      {
+         "Year": 2011,
+         "Crashes": 1100,
+         "Fatal": 207,
+         "Casualties": 2331,
+         "Killed": 248,
+         "Injured": 2083
+      },
+      {
+         "Year": 2010,
+         "Crashes": 1182,
+         "Fatal": 199,
+         "Casualties": 2483,
+         "Killed": 259,
+         "Injured": 2224
+      },
+      {
+         "Year": 2005,
+         "Crashes": 1444,
+         "Fatal": 237,
+         "Casualties": 2991,
+         "Killed": 300,
+         "Injured": 2691
+      },
+      {
+         "Year": 2001,
+         "Crashes": 1397,
+         "Fatal": 205,
+         "Casualties": 3013,
+         "Killed": 279,
+         "Injured": 2734
+      }
+   ],
+   "Greater Accra Region": [
+      {
+         "Year": 2011,
+         "Crashes": 4311,
+         "Fatal": 360,
+         "Casualties": 3794,
+         "Killed": 408,
+         "Injured": 3386
+      },
+      {
+         "Year": 2010,
+         "Crashes": 5122,
+         "Fatal": 385,
+         "Casualties": 4293,
+         "Killed": 424,
+         "Injured": 3869
+      },
+      {
+         "Year": 2005,
+         "Crashes": 4979,
+         "Fatal": 260,
+         "Casualties": 3551,
+         "Killed": 309,
+         "Injured": 3242
+      },
+      {
+         "Year": 2001,
+         "Crashes": 5003,
+         "Fatal": 220,
+         "Casualties": 3420,
+         "Killed": 240,
+         "Injured": 3180
+      }
+   ],
+   "Northern Region": [
+      {
+         "Year": 2011,
+         "Crashes": 260,
+         "Fatal": 65,
+         "Casualties": 689,
+         "Killed": 123,
+         "Injured": 566
+      },
+      {
+         "Year": 2010,
+         "Crashes": 257,
+         "Fatal": 84,
+         "Casualties": 812,
+         "Killed": 114,
+         "Injured": 698
+      },
+      {
+         "Year": 2005,
+         "Crashes": 224,
+         "Fatal": 71,
+         "Casualties": 448,
+         "Killed": 97,
+         "Injured": 351
+      },
+      {
+         "Year": 2001,
+         "Crashes": 225,
+         "Fatal": 54,
+         "Casualties": 439,
+         "Killed": 66,
+         "Injured": 373
+      }
+   ],
+   "Upper East": [
+      {
+         "Year": 2011,
+         "Crashes": 110,
+         "Fatal": 51,
+         "Casualties": 197,
+         "Killed": 54,
+         "Injured": 143
+      },
+      {
+         "Year": 2010,
+         "Crashes": 88,
+         "Fatal": 44,
+         "Casualties": 145,
+         "Killed": 45,
+         "Injured": 100
+      },
+      {
+         "Year": 2005,
+         "Crashes": 181,
+         "Fatal": 63,
+         "Casualties": 291,
+         "Killed": 79,
+         "Injured": 212
+      },
+      {
+         "Year": 2001,
+         "Crashes": 173,
+         "Fatal": 32,
+         "Casualties": 339,
+         "Killed": 34,
+         "Injured": 305
+      }
+   ],
+   "Upper West": [
+      {
+         "Year": 2011,
+         "Crashes": 118,
+         "Fatal": 42,
+         "Casualties": 210,
+         "Killed": 50,
+         "Injured": 160
+      },
+      {
+         "Year": 2010,
+         "Crashes": 90,
+         "Fatal": 42,
+         "Casualties": 183,
+         "Killed": 54,
+         "Injured": 129
+      },
+      {
+         "Year": 2005,
+         "Crashes": 82,
+         "Fatal": 21,
+         "Casualties": 187,
+         "Killed": 30,
+         "Injured": 157
+      },
+      {
+         "Year": 2001,
+         "Crashes": 86,
+         "Fatal": 14,
+         "Casualties": 185,
+         "Killed": 17,
+         "Injured": 168
+      }
+   ],
+   "Volta Region": [
+      {
+         "Year": 2011,
+         "Crashes": 481,
+         "Fatal": 103,
+         "Casualties": 1168,
+         "Killed": 139,
+         "Injured": 1029
+      },
+      {
+         "Year": 2010,
+         "Crashes": 599,
+         "Fatal": 122,
+         "Casualties": 1123,
+         "Killed": 143,
+         "Injured": 980
+      },
+      {
+         "Year": 2005,
+         "Crashes": 569,
+         "Fatal": 91,
+         "Casualties": 1446,
+         "Killed": 123,
+         "Injured": 1323
+      },
+      {
+         "Year": 2001,
+         "Crashes": 594,
+         "Fatal": 112,
+         "Casualties": 1325,
+         "Killed": 152,
+         "Injured": 1173
+      }
+   ],
+   "Western Region": [
+      {
+         "Year": 2011,
+         "Crashes": 641,
+         "Fatal": 161,
+         "Casualties": 1152,
+         "Killed": 203,
+         "Injured": 949
+      },
+      {
+         "Year": 2010,
+         "Crashes": 699,
+         "Fatal": 139,
+         "Casualties": 1215,
+         "Killed": 157,
+         "Injured": 1058
+      },
+      {
+         "Year": 2005,
+         "Crashes": 597,
+         "Fatal": 117,
+         "Casualties": 1048,
+         "Killed": 156,
+         "Injured": 892
+      },
+      {
+         "Year": 2001,
+         "Crashes": 684,
+         "Fatal": 114,
+         "Casualties": 1093,
+         "Killed": 135,
+         "Injured": 958
+      }
+   ]
+}

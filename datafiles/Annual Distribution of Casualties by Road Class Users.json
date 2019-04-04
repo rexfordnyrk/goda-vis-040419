@@ -1,0 +1,296 @@
+{
+   "1991": {
+      "Ped": 2673,
+      "Car": 1937,
+      "HGV": 865,
+      "Bus": {
+         "Mini Bus": 2706
+      },
+      "M": {
+         "cycle": 258
+      },
+      "Pick-up": 683,
+      "Cycle": 286,
+      "Other": 89
+   },
+   "1992": {
+      "Ped": 2359,
+      "Car": 2009,
+      "HGV": 696,
+      "Bus": {
+         "Mini Bus": 3554
+      },
+      "M": {
+         "cycle": 229
+      },
+      "Pick-up": 648,
+      "Cycle": 310,
+      "Other": 54
+   },
+   "1993": {
+      "Ped": 2210,
+      "Car": 1718,
+      "HGV": 612,
+      "Bus": {
+         "Mini Bus": 2922
+      },
+      "M": {
+         "cycle": 239
+      },
+      "Pick-up": 401,
+      "Cycle": 283,
+      "Other": 62
+   },
+   "1994": {
+      "Ped": 2193,
+      "Car": 1683,
+      "HGV": 579,
+      "Bus": {
+         "Mini Bus": 2913
+      },
+      "M": {
+         "cycle": 221
+      },
+      "Pick-up": 472,
+      "Cycle": 249,
+      "Other": 78
+   },
+   "1995": {
+      "Ped": 2754,
+      "Car": 1828,
+      "HGV": 758,
+      "Bus": {
+         "Mini Bus": 3557
+      },
+      "M": {
+         "cycle": 242
+      },
+      "Pick-up": 488,
+      "Cycle": 303,
+      "Other": 64
+   },
+   "1996": {
+      "Ped": 2869,
+      "Car": 1826,
+      "HGV": 1002,
+      "Bus": {
+         "Mini Bus": 2858
+      },
+      "M": {
+         "cycle": 277
+      },
+      "Pick-up": 587,
+      "Cycle": 298,
+      "Other": 116
+   },
+   "1997": {
+      "Ped": 3060,
+      "Car": 2019,
+      "HGV": 719,
+      "Bus": {
+         "Mini Bus": 4163
+      },
+      "M": {
+         "cycle": 338
+      },
+      "Pick-up": 614,
+      "Cycle": 328,
+      "Other": 82
+   },
+   "1998": {
+      "Ped": 3407,
+      "Car": 2138,
+      "HGV": 893,
+      "Bus": {
+         "Mini Bus": 4925
+      },
+      "M": {
+         "cycle": 405
+      },
+      "Pick-up": 842,
+      "Cycle": 394,
+      "Other": 98
+   },
+   "1999": {
+      "Ped": 2693,
+      "Car": 1940,
+      "HGV": 849,
+      "Bus": {
+         "Mini Bus": 4544
+      },
+      "M": {
+         "cycle": 378
+      },
+      "Pick-up": 542,
+      "Cycle": 341,
+      "Other": 73
+   },
+   "2000": {
+      "Ped": 3627,
+      "Car": 2886,
+      "HGV": 1121,
+      "Bus": {
+         "Mini Bus": 5200
+      },
+      "M": {
+         "cycle": 456
+      },
+      "Pick-up": 754,
+      "Cycle": 394,
+      "Other": 75
+   },
+   "2001": {
+      "Ped": 3656,
+      "Car": 2965,
+      "HGV": 1105,
+      "Bus": {
+         "Mini Bus": 5488
+      },
+      "M": {
+         "cycle": 446
+      },
+      "Pick-up": 553,
+      "Cycle": 416,
+      "Other": 162
+   },
+   "2002": {
+      "Ped": 3438,
+      "Car": 2985,
+      "HGV": 1250,
+      "Bus": {
+         "Mini Bus": 5998
+      },
+      "M": {
+         "cycle": 428
+      },
+      "Pick-up": 511,
+      "Cycle": 403,
+      "Other": 62
+   },
+   "2003": {
+      "Ped": 3508,
+      "Car": 3092,
+      "HGV": 1563,
+      "Bus": {
+         "Mini Bus": 6485
+      },
+      "M": {
+         "cycle": 549
+      },
+      "Pick-up": 501,
+      "Cycle": 451,
+      "Other": 98
+   },
+   "2004": {
+      "Ped": 4015,
+      "Car": 3399,
+      "HGV": 1662,
+      "Bus": {
+         "Mini Bus": 7305
+      },
+      "M": {
+         "cycle": 785
+      },
+      "Pick-up": 572,
+      "Cycle": 521,
+      "Other": 93
+   },
+   "2005": {
+      "Ped": 3623,
+      "Car": 2921,
+      "HGV": 1311,
+      "Bus": {
+         "Mini Bus": 6126
+      },
+      "M": {
+         "cycle": 704
+      },
+      "Pick-up": 603,
+      "Cycle": 455,
+      "Other": 70
+   },
+   "2006": {
+      "Ped": 3887,
+      "Car": 2849,
+      "HGV": 1585,
+      "Bus": {
+         "Mini Bus": 6172
+      },
+      "M": {
+         "cycle": 713
+      },
+      "Pick-up": 518,
+      "Cycle": 468,
+      "Other": 157
+   },
+   "2007": {
+      "Ped": 3939,
+      "Car": 3125,
+      "HGV": 1287,
+      "Bus": {
+         "Mini Bus": 5989
+      },
+      "M": {
+         "cycle": 987
+      },
+      "Pick-up": 567,
+      "Cycle": 424,
+      "Other": 75
+   },
+   "2008": {
+      "Ped": 3634,
+      "Car": 3262,
+      "HGV": 1771,
+      "Bus": {
+         "Mini Bus": 5551
+      },
+      "M": {
+         "cycle": 1135
+      },
+      "Pick-up": 606,
+      "Cycle": 416,
+      "Other": 67
+   },
+   "2009": {
+      "Ped": 4056,
+      "Car": 3899,
+      "HGV": 1440,
+      "Bus": {
+         "Mini Bus": 6756
+      },
+      "M": {
+         "cycle": 1247
+      },
+      "Pick-up": 668,
+      "Cycle": 344,
+      "Other": 70
+   },
+   "2010": {
+      "Ped": 3707,
+      "Car": 3630,
+      "HGV": 1369,
+      "Bus": {
+         "Mini Bus": 5777
+      },
+      "M": {
+         "cycle": 1345
+      },
+      "Pick-up": 695,
+      "Cycle": 299,
+      "Other": 82
+   },
+   "2011": {
+      "Ped": 3346,
+      "Car": 3522,
+      "HGV": 1204,
+      "Bus": {
+         "Mini Bus": 5594
+      },
+      "M": {
+         "cycle": 1573
+      },
+      "Pick-up": 623,
+      "Cycle": 280,
+      "Other": 77
+   }
+}

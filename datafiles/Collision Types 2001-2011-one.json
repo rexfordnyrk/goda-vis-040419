@@ -1,0 +1,236 @@
+{
+   "Head -On": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 444,
+         "No. Persons Injured": 2330
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 343,
+         "No. Persons Injured": 2282
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 296,
+         "No. Persons Injured": 1716
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 263,
+         "No. Persons Injured": 1490
+      }
+   ],
+   "Rear end": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 181,
+         "No. Persons Injured": 1927
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 175,
+         "No. Persons Injured": 1832
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 112,
+         "No. Persons Injured": 1232
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 62,
+         "No. Persons Injured": 1085
+      }
+   ],
+   "90 degree": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 70,
+         "No. Persons Injured": 993
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 71,
+         "No. Persons Injured": 1119
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 89,
+         "No. Persons Injured": 962
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 35,
+         "No. Persons Injured": 695
+      }
+   ],
+   "Side Swipe": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 129,
+         "No. Persons Injured": 1398
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 109,
+         "No. Persons Injured": 1393
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 67,
+         "No. Persons Injured": 1402
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 34,
+         "No. Persons Injured": 926
+      }
+   ],
+   "Ran off Road": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 328,
+         "No. Persons Injured": 3865
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 285,
+         "No. Persons Injured": 4322
+      }
+   ],
+   "Object on Road": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 11,
+         "No. Persons Injured": 77
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 11,
+         "No. Persons Injured": 100
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 8,
+         "No. Persons Injured": 131
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 3,
+         "No. Persons Injured": 87
+      }
+   ],
+   "Object off Road": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 40,
+         "No. Persons Injured": 423
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 38,
+         "No. Persons Injured": 379
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 41,
+         "No. Persons Injured": 432
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 30,
+         "No. Persons Injured": 343
+      }
+   ],
+   "Parked Vehicle": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 41,
+         "No. Persons Injured": 210
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 52,
+         "No. Persons Injured": 390
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 24,
+         "No. Persons Injured": 191
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 38,
+         "No. Persons Injured": 253
+      }
+   ],
+   "Pedestrian": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 886,
+         "No. Persons Injured": 2618
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 846,
+         "No. Persons Injured": 2918
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 724,
+         "No. Persons Injured": 2915
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 735,
+         "No. Persons Injured": 2890
+      }
+   ],
+   "Hit Animal": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 6,
+         "No. Persons Injured": 21
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 5,
+         "No. Persons Injured": 34
+      }
+   ],
+   "Other": [
+      {
+         "Period per Year": 2011,
+         "No. Persons Killed": 63,
+         "No. Persons Injured": 158
+      },
+      {
+         "Period per Year": 2010,
+         "No. Persons Killed": 51,
+         "No. Persons Injured": 149
+      },
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 211,
+         "No. Persons Injured": 1604
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 345,
+         "No. Persons Injured": 4377
+      }
+   ],
+   "Overturn": [
+      {
+         "Period per Year": 2005,
+         "No. Persons Killed": 214,
+         "No. Persons Injured": 3451
+      },
+      {
+         "Period per Year": 2001,
+         "No. Persons Killed": 115,
+         "No. Persons Injured": 1025
+      }
+   ]
+}
