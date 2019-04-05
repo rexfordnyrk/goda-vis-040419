@@ -13,15 +13,19 @@
 
 Auth::routes();
 
-//Route::get('/home', 'HomeController@index')->name('home');
-
-Route::group(['middleware' => ['auth']], function () {
-    Route::get('/live', function() {
-        return File::get(public_path() . '/live.html');
-    })->name('live');
-
+Route::get('/home', 'HomeController@index')->name('home');
     //redirect root to live
-    Route::get('/', function () {
-        return File::get(public_path() . '/live.html');
-    });
+Route::get('/', function () {
+        return redirect(route('home'));
 });
+
+//Route::group(['middleware' => ['auth']], function () {
+//    Route::get('/live', function() {
+//        return File::get(public_path() . '/live.html');
+//    })->name('live');
+//
+//    //redirect root to live
+//    Route::get('/', function () {
+//        return File::get(public_path() . '/live.html');
+//    });
+//});

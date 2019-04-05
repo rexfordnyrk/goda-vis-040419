@@ -173,7 +173,7 @@
       'file' => 
       array (
         'driver' => 'file',
-        'path' => '/home/ignis/public_html/stream/storage/framework/cache/data',
+        'path' => '/home/ignis/public_html/visualize-goda/www/storage/framework/cache/data',
       ),
       'memcached' => 
       array (
@@ -221,7 +221,7 @@
       'sqlite' => 
       array (
         'driver' => 'sqlite',
-        'database' => 'nilamorc_stream',
+        'database' => 'vis_data',
         'prefix' => '',
         'foreign_key_constraints' => true,
       ),
@@ -230,9 +230,9 @@
         'driver' => 'mysql',
         'host' => '127.0.0.1',
         'port' => '3306',
-        'database' => 'nilamorc_stream',
-        'username' => 'nilamorc_stream',
-        'password' => 'ignis18db',
+        'database' => 'vis_data',
+        'username' => 'vis_data',
+        'password' => 'vis_data',
         'unix_socket' => '',
         'charset' => 'utf8mb4',
         'collation' => 'utf8mb4_unicode_ci',
@@ -249,9 +249,9 @@
         'driver' => 'pgsql',
         'host' => '127.0.0.1',
         'port' => '3306',
-        'database' => 'nilamorc_stream',
-        'username' => 'nilamorc_stream',
-        'password' => 'ignis18db',
+        'database' => 'vis_data',
+        'username' => 'vis_data',
+        'password' => 'vis_data',
         'charset' => 'utf8',
         'prefix' => '',
         'prefix_indexes' => true,
@@ -263,9 +263,9 @@
         'driver' => 'sqlsrv',
         'host' => '127.0.0.1',
         'port' => '3306',
-        'database' => 'nilamorc_stream',
-        'username' => 'nilamorc_stream',
-        'password' => 'ignis18db',
+        'database' => 'vis_data',
+        'username' => 'vis_data',
+        'password' => 'vis_data',
         'charset' => 'utf8',
         'prefix' => '',
         'prefix_indexes' => true,
@@ -304,12 +304,12 @@
       'local' => 
       array (
         'driver' => 'local',
-        'root' => '/home/ignis/public_html/stream/storage/app',
+        'root' => '/home/ignis/public_html/visualize-goda/www/storage/app',
       ),
       'public' => 
       array (
         'driver' => 'local',
-        'root' => '/home/ignis/public_html/stream/storage/app/public',
+        'root' => '/home/ignis/public_html/visualize-goda/www/storage/app/public',
         'url' => 'http://localhost/storage',
         'visibility' => 'public',
       ),
@@ -355,13 +355,13 @@
       'single' => 
       array (
         'driver' => 'single',
-        'path' => '/home/ignis/public_html/stream/storage/logs/laravel.log',
+        'path' => '/home/ignis/public_html/visualize-goda/www/storage/logs/laravel.log',
         'level' => 'debug',
       ),
       'daily' => 
       array (
         'driver' => 'daily',
-        'path' => '/home/ignis/public_html/stream/storage/logs/laravel.log',
+        'path' => '/home/ignis/public_html/visualize-goda/www/storage/logs/laravel.log',
         'level' => 'debug',
         'days' => 14,
       ),
@@ -425,7 +425,7 @@
       'theme' => 'default',
       'paths' => 
       array (
-        0 => '/home/ignis/public_html/stream/resources/views/vendor/mail',
+        0 => '/home/ignis/public_html/visualize-goda/www/resources/views/vendor/mail',
       ),
     ),
     'log_channel' => NULL,
@@ -518,7 +518,7 @@
     'lifetime' => '120',
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => '/home/ignis/public_html/stream/storage/framework/sessions',
+    'files' => '/home/ignis/public_html/visualize-goda/www/storage/framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -538,9 +538,9 @@
   array (
     'paths' => 
     array (
-      0 => '/home/ignis/public_html/stream/resources/views',
+      0 => '/home/ignis/public_html/visualize-goda/www/resources/views',
     ),
-    'compiled' => '/home/ignis/public_html/stream/storage/framework/views',
+    'compiled' => '/home/ignis/public_html/visualize-goda/www/storage/framework/views',
   ),
   'debug-server' => 
   array (
